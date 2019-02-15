@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">z01</string>
+    <string name="title_activity_log">logActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="qq">与你相遇已是足够幸运</string>
+</resources>
